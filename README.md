@@ -63,8 +63,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Westminster (2015 to 2018)
 
 - Psychology BSc
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
