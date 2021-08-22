@@ -10,13 +10,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**John Lewis Partnership** (2014 to 2021)  
+_Shopfloor Assistant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
+·	Handle large amounts of cash and responsible for safe deposits upon the closing of the store
+·	Administered customer complaints and queries efficiently
+·	Responsible for the management of my time when preparing baked produce
 
 - Any experience relevent to software development
 
