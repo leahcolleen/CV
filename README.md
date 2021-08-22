@@ -66,8 +66,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Code Girls First: (May 2020-July 2020)
                                                                                                                                                       
-•	Introduction to Web Development course
-•	Studied HTML, CSS and JavaScript
+-	Introduction to Web Development course
+-	Studied HTML, CSS and JavaScript
 
 ## Hobbies
 
