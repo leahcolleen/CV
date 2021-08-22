@@ -13,7 +13,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **John Lewis Partnership** (2014 to 2021)  
 _Shopfloor Assistant_
 
-- Handle large amounts of cash and responsible for safe deposits upon the closing of the store
+- Handled large amounts of cash and responsible for safe deposits upon the closing of the store
 - Administered customer complaints and queries efficiently
 - Responsible for the management of my time when preparing baked produce
 
@@ -64,9 +64,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Psychology BSc
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Code Girls First: (May 2020-July 2020)
+                                                                                                                                                      
+•	Introduction to Web Development course
+•	Studied HTML, CSS and JavaScript
 
 ## Hobbies
 
